@@ -8,7 +8,7 @@ SupSudoku	is	a	logic-based	game.	The	objective	is	to	fill	a	9×9	grid	with	digit
 How to compile?
 ===============
 
-Clone all the repo into a folder and open your Developer Prompt:
+Clone all the repo into a folder and open your Developer Prompt.
 Then, run the following commands to create an executable aned run it:
 ```DIGITAL Command Language
 cl /EHsc main.cpp instance.cpp
