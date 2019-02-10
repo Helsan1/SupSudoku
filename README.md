@@ -9,7 +9,7 @@ How to compile?
 ===============
 
 Clone all the repo into a folder and open your Developer Prompt.
-Then, run the following commands to create an executable aned run it:
+Then, run the following commands to create an executable and run it:
 ```DIGITAL Command Language
 cl /EHsc main.cpp instance.cpp
 main.exe
